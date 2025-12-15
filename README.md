@@ -1,3 +1,14 @@
+Generate plugin to monitor Windows network usagewget https://staticdownloads.site24x7.com/server/Site24x7FullStackAgent_LinuxIns.sh
+bash Site24x7FullStackAgent_LinuxIns.sh -i -key=us_d385eafd1aabd9ffce93ece1dcd2e25e -proxy=user:password@proxyhost:proxyport -automation=true438357npm install @azure/ai-projects @azure/identityimport { AIProjectClient } from '@azure/ai-projects';
+import { DefaultAzureCredential } from '@azure/identity';
+
+const endpoint = "your_project_endpoint"; // Replace with your actual endpoint
+
+const project = new AIProjectClient(endpoint, new DefaultAzureCredential());
+// The AIProjectClient lets you access models, data, and services in your project.// Use the AIProjectClient to create an OpenAI client for your project
+const openAIClient = await project.getOpenAIClient();https://studio.firebase.google.com/mediawiki-1434-13137051
+
+https://directory.zoho.com/p/908920412/app/1184601000000002068/sso
 <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4"/> 
 </p>
